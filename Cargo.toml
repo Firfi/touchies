@@ -20,7 +20,7 @@ wasm-bindgen = "0.2.84"
 console_error_panic_hook = { version = "0.1.7", optional = true }
 
 [dependencies.bevy]
-version = "0.10.1"
+version = "0.11.0"
 default-features = false
 features = [
 #    "bevy_render",
